@@ -1,0 +1,6 @@
+@UnitTestingCalculatorAPI_HostAddress = http://localhost:5267
+
+GET {{UnitTestingCalculatorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
